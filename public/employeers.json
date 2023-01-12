@@ -1,0 +1,13 @@
+{
+    "employeers": [
+        [
+            { "id": 1, "name": "Jimmy", "surname": "Brown", "age": 22, "position": "Frontend" },
+            { "id": 2, "name": "Chris", "surname": "O'nill", "age": 22, "position": "Backend" },
+            { "id": 3, "name": "Bob", "surname": "Brown", "age": 20, "position": "Frontend" },
+            { "id": 4, "name": "Chris", "surname": "Brown", "age": 25, "position": "Backend"},
+            { "id": 5, "name": "Andrew", "surname": "Brown", "age": 20, "position": "DevOps" },
+            { "id": 6, "name": "Christopher", "surname": "Brown", "age": 22, "position": "Frontend" },
+            { "id": 7, "name": "Jenis", "surname": "Brown", "age": 18, "position": "Backend" }
+          ]
+    ]
+}
